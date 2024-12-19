@@ -1,0 +1,20 @@
+body{
+    color:white; 
+    background-color: black;  
+    text-align: center; 
+    margin:0.5em; 
+    margin-left:0.25; 
+    margin-top:50px;
+} 
+
+
+.post h1{
+        font-family: "Libre Baskerville", serif;
+        font-weight: 400;
+        font-style: normal;    
+} 
+
+.post img{
+   border:5px solid white;
+} 
+
